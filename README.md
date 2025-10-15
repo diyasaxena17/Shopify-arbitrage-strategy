@@ -19,7 +19,7 @@ It fetches historical market and FX data with `yfinance`, calculates price sprea
 - Visualization of profit over time
 
 ## 🏆 Use Case 
-Arbitrage trading simulation for Shopify’s dual-listed stock,
+Arbitrage trading simulation for Shopify’s dual-listed stock.
 
 
 
