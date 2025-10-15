@@ -27,3 +27,5 @@ Arbitrage trading simulation for Shopify’s dual-listed stock,
 ```bash
 pip install -r requirements.txt
 python SHOP_arb_project/first_SHOP_strat.py
+
+#Change initial parameters to simulate different situations.
